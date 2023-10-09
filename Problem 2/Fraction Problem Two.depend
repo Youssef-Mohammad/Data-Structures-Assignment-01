@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1650483918 source:c:\users\user\documents\fcai\second year\second semester\data stracture\adel nassum data structure\fraction problem two\main.cpp
+	<iostream>
+
+1650486648 source:c:\users\user\documents\fcai\fraction problem two\main.cpp
+	<iostream>
+	<fraction.h>
+
+1650487492 c:\users\user\documents\fcai\fraction problem two\include\fraction.h
+	<iostream>
+
+1650487378 source:c:\users\user\documents\fcai\fraction problem two\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+
+1651052306 source:c:\users\user\documents\fcai\a1_p2_20200020\main.cpp
+	<iostream>
+	<fraction.h>
+	"FractionCalculator.h"
+
+1651064568 c:\users\user\documents\fcai\a1_p2_20200020\include\fraction.h
+	<iostream>
+
+1651065228 source:c:\users\user\documents\fcai\a1_p2_20200020\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+
+1651064810 source:c:\users\user\documents\fcai\a1_p2_20200020\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+
+1651052319 c:\users\user\documents\fcai\a1_p2_20200020\include\fractioncalculator.h
+	"fraction.h"
+

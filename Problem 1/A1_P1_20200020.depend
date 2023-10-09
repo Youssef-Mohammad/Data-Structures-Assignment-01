@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651065604 source:c:\users\user\documents\fcai\a1_p1_20200020\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+
